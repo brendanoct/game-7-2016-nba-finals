@@ -9,7 +9,7 @@ Game 7 2016 NBA Finals.twb: Tableau file containing the dashboard created.
 
 Game 7 2016 NBA Finals.xlsx: Cleaned data after web scraping.
 
-
+Screenshot_of_Tableau_Dashboard.png: Screenshot of the dashboard created.
 
 # Introduction
 
