@@ -1,7 +1,5 @@
 Game 7 2016 NBA Finals
 ================
-Brendan Octaviano
-10/02/2022
 
 # Introduction
 
